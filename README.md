@@ -1,6 +1,8 @@
-# Добро пожаловать
+# Добро пожаловать в iCoach – **PRODUCTION**
 
-Добро пожаловать в документацию и багтрекер проекта iCoach.
+Добро пожаловать в документацию и багтрекер **PRODUCTION (текущей)** версии проекта iCoach: [http://icoach.io](http://icoach.io)
+
+Репозиторий для DEVELOPMENT (новой) версии iCoach находится здесь: [https://github.com/schaman/ic-dev](https://github.com/schaman/ic-dev)
 
 ## Документация (Wiki)
 
